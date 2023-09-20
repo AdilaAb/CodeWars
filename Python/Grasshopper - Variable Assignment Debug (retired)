@@ -1,0 +1,15 @@
+https://www.codewars.com/kata/grasshopper-variable-assignment-debug/train/python
+
+
+DESCRIPTION:
+
+Variable assignment
+Fix the variables assigments so that this code stores the string 'devLab' in the variable name.
+
+
+SOLUTION:
+
+a = "dev"
+b = "Lab"
+
+name = a + b
